@@ -1,0 +1,5 @@
+nombre villacampa <class 'str'>
+anio 5 <class 'int'>
+altura_cm 6.42 <class 'float'>
+autonomo True <class 'bool'>
+VERSION_ESPERADA v1.0 <class 'str'>
