@@ -1,0 +1,2 @@
+nombre = "villacampa"
+print villacampa

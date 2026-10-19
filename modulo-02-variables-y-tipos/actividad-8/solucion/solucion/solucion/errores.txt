@@ -1,0 +1,4 @@
+ File "c:\Users\ARNAUVILLACAMPAPRATS\Documents\GitHub\python-robotica\modulo-02-variables-y-tipos\actividad-8\solucion\depuración.py", line 2
+    print villacampa
+    ^^^^^^^^^^^^^^^^
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
