@@ -1,0 +1,19 @@
+Error 1 (paréntesis de print)
+  File "C:\Users\ARNAUVILLACAMPAPRATS\Documents\GitHub\python-robotica\modulo-02-variables-y-tipos\actividad-8\solucion\fallo_1.py", line 6
+    print nombre
+    ^^^^^^^^^^^^
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+
+Error 2 (nombre de la variable)
+Traceback (most recent call last):
+  File "C:\Users\ARNAUVILLACAMPAPRATS\Documents\GitHub\python-robotica\modulo-02-variables-y-tipos\actividad-8\solucion\fallo_2.py", line 8, in <module>
+    print(distanca_texto)
+          ^^^^^^^^^^^^^^
+NameError: name 'distanca_texto' is not defined. Did you mean: 'distancia_texto'?
+
+Error 3 (texto y booleano)
+Traceback (most recent call last):
+  File "C:\Users\ARNAUVILLACAMPAPRATS\Documents\GitHub\python-robotica\modulo-02-variables-y-tipos\actividad-8\solucion\fallo_3.py", line 10, in <module>
+    print("Encendido: " + encendido)
+          ~~~~~~~~~~~~~~^~~~~~~~~~~
+TypeError: can only concatenate str (not "bool") to str

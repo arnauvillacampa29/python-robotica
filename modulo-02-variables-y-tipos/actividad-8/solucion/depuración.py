@@ -1,2 +1,0 @@
-nombre = "villacampa"
-print villacampa

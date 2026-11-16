@@ -1,6 +1,4 @@
-texto_entero <class 'str'>
-texto_entero <class 'int'>
-texto_decimal <class 'str'>
-texto_decimal <class 'float'>
-numero <class 'str'>
-numero <class 'str'>
+3 <class 'str'>
+3 <class 'int'>
+3.5 <class 'float'>
+42 <class 'str'>

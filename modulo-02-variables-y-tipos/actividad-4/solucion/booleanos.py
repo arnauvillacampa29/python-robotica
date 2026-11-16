@@ -1,10 +1,9 @@
-
 bateria_ok = True
 hay_pared = False
 cargando = True
-modo_autonomo = True
+modo_autonomo = False
 
-print ("bateria_ok", bateria_ok)
-print ("hay_pared", hay_pared)
-print ("cargando", cargando)
-print ("modo autonomo", modo_autonomo)
+print("bateria_ok:", bateria_ok)
+print("hay_pared:", hay_pared)
+print("cargando:", cargando)
+print("modo_autonomo:", modo_autonomo)
